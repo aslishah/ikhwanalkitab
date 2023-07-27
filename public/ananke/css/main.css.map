@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/aslisho/Documents/Post-Doc/KITAB/RasailOfKitab/quickstart",
+	"sourceRoot": "/Users/aslisho/Documents/Post-Doc/KITAB/RasailOfKitab/quickstart/ikhwanalkitab",
 	"sources": [
 		"ananke/css/main.css"
 	],

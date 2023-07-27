@@ -1,2 +1,4 @@
-# ikhwanalkitab
-KITAB multigraph development
+# Ikhwan al-Kitab
+
+## KITAB multigraph development
+
