@@ -1,4 +1,0 @@
-baseURL = 'https://aslishah.github.io/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
